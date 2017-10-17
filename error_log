@@ -1,0 +1,66 @@
+[06-Sep-2017 00:43:47 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 01:01:40 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 01:30:06 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 01:38:32 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 01:58:39 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 02:17:48 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 02:37:41 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 03:01:47 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 03:20:34 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 03:33:17 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 03:54:13 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 04:09:56 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 04:32:21 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 04:55:09 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 05:09:33 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 05:32:02 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 05:46:29 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 06:06:54 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 06:25:04 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 06:51:01 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 07:03:39 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 07:27:49 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 07:42:05 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 08:04:03 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 08:27:44 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 08:42:26 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 09:01:14 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 09:18:36 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 09:44:12 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 10:03:18 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 10:18:17 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 10:34:21 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 10:53:36 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 11:14:43 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 11:33:49 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 11:54:40 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 12:13:52 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 12:31:51 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[06-Sep-2017 12:51:58 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/mark1bd/public_html/wp-includes/class-wp-xmlrpc-server.php on line 560
+[08-Oct-2017 08:37:39 UTC] PHP Warning:  include(header_top.php): failed to open stream: No such file or directory in /home/mark1bd/public_html/wp-content/themes/salient/splash.php on line 7
+[08-Oct-2017 08:37:39 UTC] PHP Warning:  include(header_top.php): failed to open stream: No such file or directory in /home/mark1bd/public_html/wp-content/themes/salient/splash.php on line 7
+[08-Oct-2017 08:37:39 UTC] PHP Warning:  include(): Failed opening 'header_top.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mark1bd/public_html/wp-content/themes/salient/splash.php on line 7
+[08-Oct-2017 08:38:08 UTC] PHP Warning:  include(header_top.php): failed to open stream: No such file or directory in /home/mark1bd/public_html/wp-content/themes/salient/splash.php on line 7
+[08-Oct-2017 08:38:08 UTC] PHP Warning:  include(header_top.php): failed to open stream: No such file or directory in /home/mark1bd/public_html/wp-content/themes/salient/splash.php on line 7
+[08-Oct-2017 08:38:08 UTC] PHP Warning:  include(): Failed opening 'header_top.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mark1bd/public_html/wp-content/themes/salient/splash.php on line 7
+[08-Oct-2017 08:44:44 UTC] PHP Warning:  include(header_top.php): failed to open stream: No such file or directory in /home/mark1bd/public_html/wp-content/themes/salient/splash.php on line 7
+[08-Oct-2017 08:44:44 UTC] PHP Warning:  include(header_top.php): failed to open stream: No such file or directory in /home/mark1bd/public_html/wp-content/themes/salient/splash.php on line 7
+[08-Oct-2017 08:44:44 UTC] PHP Warning:  include(): Failed opening 'header_top.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mark1bd/public_html/wp-content/themes/salient/splash.php on line 7
+[08-Oct-2017 08:45:07 UTC] PHP Warning:  include(header_top.php): failed to open stream: No such file or directory in /home/mark1bd/public_html/wp-content/themes/salient/splash.php on line 7
+[08-Oct-2017 08:45:07 UTC] PHP Warning:  include(header_top.php): failed to open stream: No such file or directory in /home/mark1bd/public_html/wp-content/themes/salient/splash.php on line 7
+[08-Oct-2017 08:45:07 UTC] PHP Warning:  include(): Failed opening 'header_top.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mark1bd/public_html/wp-content/themes/salient/splash.php on line 7
+[08-Oct-2017 08:45:15 UTC] PHP Warning:  include(header_top.php): failed to open stream: No such file or directory in /home/mark1bd/public_html/wp-content/themes/salient/splash.php on line 7
+[08-Oct-2017 08:45:15 UTC] PHP Warning:  include(header_top.php): failed to open stream: No such file or directory in /home/mark1bd/public_html/wp-content/themes/salient/splash.php on line 7
+[08-Oct-2017 08:45:15 UTC] PHP Warning:  include(): Failed opening 'header_top.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mark1bd/public_html/wp-content/themes/salient/splash.php on line 7
+[08-Oct-2017 08:45:16 UTC] PHP Warning:  include(header_top.php): failed to open stream: No such file or directory in /home/mark1bd/public_html/wp-content/themes/salient/splash.php on line 7
+[08-Oct-2017 08:45:16 UTC] PHP Warning:  include(header_top.php): failed to open stream: No such file or directory in /home/mark1bd/public_html/wp-content/themes/salient/splash.php on line 7
+[08-Oct-2017 08:45:16 UTC] PHP Warning:  include(): Failed opening 'header_top.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mark1bd/public_html/wp-content/themes/salient/splash.php on line 7
+[08-Oct-2017 13:54:20 UTC] PHP Warning:  include(header_top.php): failed to open stream: No such file or directory in /home/mark1bd/public_html/wp-content/themes/salient/splash.php on line 7
+[08-Oct-2017 13:54:20 UTC] PHP Warning:  include(header_top.php): failed to open stream: No such file or directory in /home/mark1bd/public_html/wp-content/themes/salient/splash.php on line 7
+[08-Oct-2017 13:54:20 UTC] PHP Warning:  include(): Failed opening 'header_top.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mark1bd/public_html/wp-content/themes/salient/splash.php on line 7
+[08-Oct-2017 13:54:26 UTC] PHP Warning:  include(header_top.php): failed to open stream: No such file or directory in /home/mark1bd/public_html/wp-content/themes/salient/splash.php on line 7
+[08-Oct-2017 13:54:26 UTC] PHP Warning:  include(header_top.php): failed to open stream: No such file or directory in /home/mark1bd/public_html/wp-content/themes/salient/splash.php on line 7
+[08-Oct-2017 13:54:26 UTC] PHP Warning:  include(): Failed opening 'header_top.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mark1bd/public_html/wp-content/themes/salient/splash.php on line 7
+[11-Oct-2017 10:56:27 UTC] PHP Parse error:  syntax error, unexpected 'Name' (T_STRING) in /home/mark1bd/public_html/wp-content/themes/salient/splash.php on line 3
+[11-Oct-2017 10:56:35 UTC] PHP Parse error:  syntax error, unexpected 'Name' (T_STRING) in /home/mark1bd/public_html/wp-content/themes/salient/splash.php on line 3
+[11-Oct-2017 10:56:41 UTC] PHP Parse error:  syntax error, unexpected 'Name' (T_STRING) in /home/mark1bd/public_html/wp-content/themes/salient/splash.php on line 3

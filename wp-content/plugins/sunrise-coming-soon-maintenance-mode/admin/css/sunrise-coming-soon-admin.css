@@ -1,0 +1,16 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ input[type=number].regular-text{
+    width: 70px;
+}
+
+input.sunrise-date-picker {
+    width: 140px;
+}
+
+/* Help Support Area */
+.help_support_area{
+	padding: 12px;
+}

@@ -1,0 +1,719 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IgniteUp\n"
+"POT-Creation-Date: 2015-09-23 16:15+0530\n"
+"PO-Revision-Date: 2015-09-23 16:15+0530\n"
+"Last-Translator: Thambaru Wijesekara <thambaru@gmail.com>\n"
+"Language-Team: CeylonSystems <info@ceylonsystems.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: includes\n"
+
+#: includes/class-admin-options.php:89
+msgid "Subscribe"
+msgstr ""
+
+#: includes/class-admin-options.php:90
+#, php-format
+msgid "%sThank you!%s You are subscribed"
+msgstr ""
+
+#: includes/class-admin-options.php:91
+#, php-format
+msgid "%sInvalid Email!%s Please try again"
+msgstr ""
+
+#: includes/class-admin-options.php:92
+#, php-format
+msgid "%sEmail already exists!%s Please try again"
+msgstr ""
+
+#: includes/class-admin-options.php:93
+msgid "DAYS"
+msgstr ""
+
+#: includes/class-admin-options.php:94
+msgid "HOURS"
+msgstr ""
+
+#: includes/class-admin-options.php:95
+msgid "MINUTES"
+msgstr ""
+
+#: includes/class-admin-options.php:96
+msgid "SECONDS"
+msgstr ""
+
+#: includes/class-admin-options.php:97
+msgid "SECS"
+msgstr ""
+
+#: includes/class-admin-options.php:98
+msgid "MINS"
+msgstr ""
+
+#: includes/class-coming-soon-creator.php:65
+msgid "IgniteUp"
+msgstr ""
+
+#: includes/class-coming-soon-creator.php:66
+#: includes/views/admin-templates.php:34
+msgid "Templates"
+msgstr ""
+
+#: includes/class-coming-soon-creator.php:67
+#: includes/views/admin-subscribers.php:6
+#: includes/views/temp-general-options.php:34
+msgid "Subscribers"
+msgstr ""
+
+#: includes/class-coming-soon-creator.php:68
+msgid "Options"
+msgstr ""
+
+#: includes/class-coming-soon-creator.php:241
+msgid "IgniteUp: Enabled"
+msgstr ""
+
+#: includes/templates/believe.php:10 includes/templates/glass.php:10
+#: includes/templates/offline.php:10
+msgid "Logo (Transparent)"
+msgstr ""
+
+#: includes/templates/believe.php:12 includes/templates/glass.php:12
+#: includes/templates/offline.php:12
+msgid "Recommended size: 250px x 90px"
+msgstr ""
+
+#: includes/templates/believe.php:16 includes/templates/glass.php:16
+#: includes/templates/launcher.php:24 includes/templates/offline.php:16
+msgid "Background Color"
+msgstr ""
+
+#: includes/templates/believe.php:19 includes/templates/glass.php:19
+#: includes/templates/launcher.php:27 includes/templates/offline.php:19
+msgid "This will be the background color."
+msgstr ""
+
+#: includes/templates/believe.php:23 includes/templates/glass.php:23
+#: includes/templates/launcher.php:31 includes/templates/offline.php:23
+msgid "Background Image"
+msgstr ""
+
+#: includes/templates/believe.php:26 includes/templates/glass.php:26
+#: includes/templates/launcher.php:34 includes/templates/offline.php:26
+msgid "Page background image. (Recommended size: 1920px x 1080px)"
+msgstr ""
+
+#: includes/templates/believe.php:30 includes/templates/glass.php:30
+#: includes/templates/launcher.php:38 includes/templates/offline.php:30
+msgid "Font Color"
+msgstr ""
+
+#: includes/templates/believe.php:33 includes/templates/glass.php:33
+#: includes/templates/launcher.php:41 includes/templates/offline.php:33
+msgid "This will be the font color"
+msgstr ""
+
+#: includes/templates/believe.php:37 includes/templates/glass.php:44
+#: includes/templates/offline.php:44
+msgid "Title Top"
+msgstr ""
+
+#: includes/templates/believe.php:38 includes/templates/believe.php:39
+msgid "Our Website is"
+msgstr ""
+
+#: includes/templates/believe.php:40 includes/templates/offline.php:47
+msgid "Text above the main title"
+msgstr ""
+
+#: includes/templates/believe.php:44
+msgid "Main title"
+msgstr ""
+
+#: includes/templates/believe.php:45 includes/templates/believe.php:46
+msgid "Coming Soon"
+msgstr ""
+
+#: includes/templates/believe.php:47
+msgid "The bold title"
+msgstr ""
+
+#: includes/templates/believe.php:51 includes/templates/believe.php:53
+#: includes/templates/glass.php:51 includes/templates/glass.php:53
+#: includes/templates/launcher.php:59 includes/templates/launcher.php:61
+#: includes/templates/offline.php:51 includes/templates/offline.php:53
+msgid "Paragraph Text"
+msgstr ""
+
+#: includes/templates/believe.php:52
+msgid "Meanwhile feel free to interact with our social networks"
+msgstr ""
+
+#: includes/templates/believe.php:54 includes/templates/launcher.php:62
+msgid "This will be the paragraph text"
+msgstr ""
+
+#: includes/templates/believe.php:61 includes/templates/glass.php:67
+#: includes/templates/launcher.php:84
+msgid "Enter the Twitter URL here"
+msgstr ""
+
+#: includes/templates/believe.php:68 includes/templates/glass.php:74
+#: includes/templates/launcher.php:91
+msgid "Enter the Facebook URL here"
+msgstr ""
+
+#: includes/templates/believe.php:75 includes/templates/glass.php:81
+#: includes/templates/launcher.php:98
+msgid "Enter the Pinterest URL here"
+msgstr ""
+
+#: includes/templates/believe.php:82 includes/templates/glass.php:88
+#: includes/templates/launcher.php:105
+msgid "Enter the Google+ URL here"
+msgstr ""
+
+#: includes/templates/glass.php:37 includes/templates/offline.php:37
+msgid "Link Color"
+msgstr ""
+
+#: includes/templates/glass.php:40 includes/templates/offline.php:40
+msgid "This will be the hover color"
+msgstr ""
+
+#: includes/templates/glass.php:45
+msgid "Under Maintenance"
+msgstr ""
+
+#: includes/templates/glass.php:46
+msgid "Header Text"
+msgstr ""
+
+#: includes/templates/glass.php:47
+msgid "This will be the main title"
+msgstr ""
+
+#: includes/templates/glass.php:52
+msgid "sorry for the inconvenience <br> we will come with a new experience."
+msgstr ""
+
+#: includes/templates/glass.php:54 includes/templates/offline.php:54
+msgid "This will be the paragraph text, you can use html tags here."
+msgstr ""
+
+#: includes/templates/glass.php:58
+msgid "Show Subscribe Form"
+msgstr ""
+
+#: includes/templates/glass.php:60
+msgid "Show/Hide Email Subscribe Form"
+msgstr ""
+
+#: includes/templates/glass.php:95 includes/templates/launcher.php:112
+msgid "Enter the Youtube URL here"
+msgstr ""
+
+#: includes/templates/glass.php:102 includes/templates/launcher.php:119
+msgid "Enter the Evernote URL here"
+msgstr ""
+
+#: includes/templates/glass.php:109 includes/templates/launcher.php:126
+msgid "Enter the Tumblr URL here"
+msgstr ""
+
+#: includes/templates/glass.php:116 includes/templates/launcher.php:133
+msgid "Enter the Behance URL here"
+msgstr ""
+
+#: includes/templates/glass.php:123 includes/templates/launcher.php:140
+msgid "Enter the Linkedin URL here"
+msgstr ""
+
+#: includes/templates/glass/glass.php:58 includes/templates/offline.php:68
+msgid "Your email address"
+msgstr ""
+
+#: includes/templates/launcher.php:10
+msgid "Launch Date"
+msgstr ""
+
+#: includes/templates/launcher.php:13
+msgid "Add the date when you are going to launch the site"
+msgstr ""
+
+#: includes/templates/launcher.php:17
+msgid "Launch Time"
+msgstr ""
+
+#: includes/templates/launcher.php:20
+msgid "Note: Enter time in hh:mm:ss format."
+msgstr ""
+
+#: includes/templates/launcher.php:45
+msgid "Title Top Text"
+msgstr ""
+
+#: includes/templates/launcher.php:46
+msgid "Almost Ready"
+msgstr ""
+
+#: includes/templates/launcher.php:47
+msgid "Bold Title"
+msgstr ""
+
+#: includes/templates/launcher.php:48
+msgid "This will be the bold title"
+msgstr ""
+
+#: includes/templates/launcher.php:52
+msgid "Subtitle Text"
+msgstr ""
+
+#: includes/templates/launcher.php:53
+msgid "Website will launch in"
+msgstr ""
+
+#: includes/templates/launcher.php:54
+msgid "Subtitle"
+msgstr ""
+
+#: includes/templates/launcher.php:55
+msgid "Text below the title"
+msgstr ""
+
+#: includes/templates/launcher.php:60
+msgid ""
+"This website is currently unavailable due to maintenance. Please visit again "
+"later. If you have any inquiries forward to the site admin. Please subscribe "
+"with our Newsletter."
+msgstr ""
+
+#: includes/templates/launcher.php:67
+msgid "Button Font Color"
+msgstr ""
+
+#: includes/templates/launcher.php:70
+msgid "This will be the font color the button"
+msgstr ""
+
+#: includes/templates/launcher.php:74
+msgid "Button Background Color"
+msgstr ""
+
+#: includes/templates/launcher.php:77
+msgid "This will be the background color the button"
+msgstr ""
+
+#: includes/templates/launcher/launcher.php:74
+msgid "Enter your email..."
+msgstr ""
+
+#: includes/templates/offline.php:45 includes/templates/offline.php:46
+msgid "Website is offline"
+msgstr ""
+
+#: includes/templates/offline.php:52
+msgid "sorry for the inconvenience <br> we will come with new experience."
+msgstr ""
+
+#: includes/templates/offline.php:58
+msgid "Contact text"
+msgstr ""
+
+#: includes/templates/offline.php:59 includes/templates/offline.php:60
+msgid "contact site admin:"
+msgstr ""
+
+#: includes/templates/offline.php:61
+msgid "Contact information label"
+msgstr ""
+
+#: includes/templates/offline.php:65
+msgid "Contact email"
+msgstr ""
+
+#: includes/views/admin-dashboard.php:9
+msgid "Settings saved."
+msgstr ""
+
+#: includes/views/admin-dashboard.php:16
+msgid "General"
+msgstr ""
+
+#: includes/views/admin-dashboard.php:17 includes/views/admin-dashboard.php:29
+msgid "Template Options"
+msgstr ""
+
+#: includes/views/admin-dashboard.php:18 includes/views/admin-dashboard.php:32
+msgid "Common Options"
+msgstr ""
+
+#: includes/views/admin-dashboard.php:19
+msgid "Integrations"
+msgstr ""
+
+#: includes/views/admin-dashboard.php:20
+msgid "Help"
+msgstr ""
+
+#: includes/views/admin-dashboard.php:26
+msgid "General Options"
+msgstr ""
+
+#: includes/views/admin-dashboard.php:38
+msgid "Manage Integrations"
+msgstr ""
+
+#: includes/views/admin-subscribers.php:7
+msgid "List of subscribers you've got through the Coming Soon page."
+msgstr ""
+
+#: includes/views/admin-subscribers.php:13
+msgid "Bulk Actions"
+msgstr ""
+
+#: includes/views/admin-subscribers.php:14
+msgid "Delete"
+msgstr ""
+
+#: includes/views/admin-subscribers.php:16
+msgid "Apply"
+msgstr ""
+
+#: includes/views/admin-subscribers.php:19
+msgid "EXPORT CSV"
+msgstr ""
+
+#: includes/views/admin-subscribers.php:20
+msgid "EXPORT BCC"
+msgstr ""
+
+#: includes/views/admin-subscribers.php:30
+#: includes/views/admin-subscribers.php:50
+msgid "Name"
+msgstr ""
+
+#: includes/views/admin-subscribers.php:31
+#: includes/views/admin-subscribers.php:51
+msgid "Email Address"
+msgstr ""
+
+#: includes/views/admin-subscribers.php:40
+msgid "UNKNOWN"
+msgstr ""
+
+#: includes/views/admin-subscribers.php:42
+msgid "Remove"
+msgstr ""
+
+#: includes/views/admin-templates.php:15
+msgid "Customize"
+msgstr ""
+
+#: includes/views/admin-templates.php:20
+msgid "Activate"
+msgstr ""
+
+#: includes/views/admin-templates.php:25
+msgid "Uninstall"
+msgstr ""
+
+#: includes/views/admin-templates.php:36
+msgid "A new template activated!"
+msgstr ""
+
+#: includes/views/admin-templates.php:36
+msgid "Customize it"
+msgstr ""
+
+#: includes/views/temp-common-options.php:9
+#: includes/views/temp-common-options.php:16
+msgid "Subscribe Button Text"
+msgstr ""
+
+#: includes/views/temp-common-options.php:20
+msgid "Thank you message"
+msgstr ""
+
+#: includes/views/temp-common-options.php:26
+msgid "Thank you message after a successful subscription."
+msgstr ""
+
+#: includes/views/temp-common-options.php:30
+msgid "Invalid Email Error"
+msgstr ""
+
+#: includes/views/temp-common-options.php:35
+msgid "Error message for invalid email addresses."
+msgstr ""
+
+#: includes/views/temp-common-options.php:39
+msgid "Email Already Exists Error"
+msgstr ""
+
+#: includes/views/temp-common-options.php:46
+msgid "Message to display if the user has already subscribed."
+msgstr ""
+
+#: includes/views/temp-general-options.php:15
+#: includes/views/temp-integration-options.php:9
+msgid "Enable / Disable"
+msgstr ""
+
+#: includes/views/temp-general-options.php:19
+msgid "Enable Coming Soon or Site Offline"
+msgstr ""
+
+#: includes/views/temp-general-options.php:24
+msgid "Skip Page For"
+msgstr ""
+
+#: includes/views/temp-general-options.php:30
+msgid "Administrators"
+msgstr ""
+
+#: includes/views/temp-general-options.php:32
+msgid "Editors"
+msgstr ""
+
+#: includes/views/temp-general-options.php:36
+msgid "Select user roles to skip maintenance mode page."
+msgstr ""
+
+#: includes/views/temp-general-options.php:42
+msgid "Enable 503 Status"
+msgstr ""
+
+#: includes/views/temp-general-options.php:46
+msgid "Enable 503 header response"
+msgstr ""
+
+#: includes/views/temp-general-options.php:47
+msgid ""
+"Enable status 503 header response in the page to notify search engines that "
+"your site is down for maintenance."
+msgstr ""
+
+#: includes/views/temp-general-options.php:53
+#: includes/views/temp-general-options.php:56
+msgid "Page Title"
+msgstr ""
+
+#: includes/views/temp-general-options.php:57
+msgid "This will be the title of the coming soon page."
+msgstr ""
+
+#: includes/views/temp-general-options.php:62
+msgid "Favicon"
+msgstr ""
+
+#: includes/views/temp-general-options.php:67
+msgid "Upload"
+msgstr ""
+
+#: includes/views/temp-general-options.php:68
+msgid ""
+"Recommended size is 16x16 or 32x32. Use only ICO or PNG file.<br>May not be "
+"working if your theme or any other plugin is setting a favicon."
+msgstr ""
+
+#: includes/views/temp-general-options.php:74
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/views/temp-general-options.php:77
+msgid "Use custom css to customize front end templates."
+msgstr ""
+
+#: includes/views/temp-general-options.php:82
+msgid "Powered by IgniteUp"
+msgstr ""
+
+#: includes/views/temp-general-options.php:85
+msgid "Show \"Powered by IgniteUp\" in the page"
+msgstr ""
+
+#: includes/views/temp-general-options.php:91
+#: includes/views/temp-integration-options.php:124
+msgid "Save Changes"
+msgstr ""
+
+#: includes/views/temp-help.php:2
+msgid "Welcome to IgniteUp"
+msgstr ""
+
+#: includes/views/temp-help.php:3
+msgid "Now you can install additional templates from the store."
+msgstr ""
+
+#: includes/views/temp-help.php:7
+msgid "What's New?"
+msgstr ""
+
+#: includes/views/temp-help.php:10
+msgid "NEW!"
+msgstr ""
+
+#: includes/views/temp-help.php:43
+msgid "Loving IgniteUp?"
+msgstr ""
+
+#: includes/views/temp-help.php:44
+msgid "Thank you for using IgniteUp in your WordPress installation."
+msgstr ""
+
+#: includes/views/temp-help.php:45
+msgid ""
+"Do you mind taking a minute to support us by adding a review? Your feedback "
+"is very important to us."
+msgstr ""
+
+#: includes/views/temp-help.php:46
+msgid "Add a Review on WordPress"
+msgstr ""
+
+#: includes/views/temp-help.php:50
+msgid "Need Help?"
+msgstr ""
+
+#: includes/views/temp-help.php:51
+msgid ""
+"We have an acting fast support for you. Post your question in WordPress "
+"support forums for IgniteUp"
+msgstr ""
+
+#: includes/views/temp-help.php:52
+msgid "Visit Support Forum"
+msgstr ""
+
+#: includes/views/temp-help.php:53
+#, php-format
+msgid ""
+"If you need to email us a support request please use our %s support email%s. "
+"Got any suggestions or feedback? Write us via our general <a href=\"mailto:"
+"info@ceylonsystems.com\">email address</a>."
+msgstr ""
+
+#: includes/views/temp-help.php:57
+msgid "Watch Tutorial"
+msgstr ""
+
+#: includes/views/temp-help.php:65
+msgid "Need more templates?"
+msgstr ""
+
+#: includes/views/temp-help.php:66
+msgid ""
+"We have more templates for you with improved features like adding a YouTube "
+"video as the background."
+msgstr ""
+
+#: includes/views/temp-help.php:74
+msgid "Get more templates"
+msgstr ""
+
+#: includes/views/temp-help.php:78
+msgid "About IgniteUp"
+msgstr ""
+
+#: includes/views/temp-help.php:79
+#, php-format
+msgid ""
+"IgniteUp is an in-house product from Ceylon Systems. Want to know more about "
+"us? %sVisit our website%s."
+msgstr ""
+
+#: includes/views/temp-help.php:82
+msgid ""
+"If you appreciate our effort, please make a donation with PayPal. In this "
+"way we can serve you better and IgniteUp will improve. Thank you in advance!"
+msgstr ""
+
+#: includes/views/temp-help.php:83
+msgid "Donate with PayPal"
+msgstr ""
+
+#: includes/views/temp-integration-options.php:18
+msgid "Enable External Mailinglist Integration"
+msgstr ""
+
+#: includes/views/temp-integration-options.php:20
+msgid ""
+"Tick this if you need to send your subscribers into one of the following "
+"Mailing list providers."
+msgstr ""
+
+#: includes/views/temp-integration-options.php:26
+msgid "Save subscribers to"
+msgstr ""
+
+#: includes/views/temp-integration-options.php:38
+msgid ""
+"Choose the default provider to save your subscribers. IgniteUp will always "
+"save to the local database."
+msgstr ""
+
+#: includes/views/temp-integration-options.php:44
+msgid ""
+"If you need to use Mailchimp integration, provide an API key. So we can get "
+"you the mailing lists that you have in your Mailchimp account to select."
+msgstr ""
+
+#: includes/views/temp-integration-options.php:48
+msgid "Mailchimp API Key"
+msgstr ""
+
+#: includes/views/temp-integration-options.php:56
+#, php-format
+msgid "Need help finding your API key? %sRead this article%s."
+msgstr ""
+
+#: includes/views/temp-integration-options.php:63
+#: includes/views/temp-integration-options.php:98
+msgid "Select the list"
+msgstr ""
+
+#: includes/views/temp-integration-options.php:73
+msgid "Select a list.."
+msgstr ""
+
+#: includes/views/temp-integration-options.php:78
+msgid "Select the Mailchimp list you want your subscribers to be added."
+msgstr ""
+
+#: includes/views/temp-integration-options.php:80
+msgid "There are no lists in your Mailchimp account."
+msgstr ""
+
+#: includes/views/temp-integration-options.php:82
+msgid "Your API key seems to be invalid!"
+msgstr ""
+
+#: includes/views/temp-integration-options.php:94
+msgid ""
+"If you need to use Mailpoet integration, make sure you have Mailpoet plugin "
+"installed."
+msgstr ""
+
+#: includes/views/temp-integration-options.php:114
+msgid "Install Mailpoet plugin to use the service"
+msgstr ""
+
+#: includes/views/temp-template-options.php:13
+msgid "Something is wrong with your template"
+msgstr ""
+
+#: includes/views/temp-template-options.php:72
+msgid "No options defined for the active template!"
+msgstr ""
+
+#: includes/views/temp-template-options.php:84
+msgid "Settings Saved Successfully"
+msgstr ""

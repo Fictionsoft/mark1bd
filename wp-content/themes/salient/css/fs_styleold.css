@@ -1,0 +1,41 @@
+.home-box{
+    height: 530px !important;
+}
+
+.hotline a {
+    color: #136f26;
+}
+.fs-copy-font{
+    font-family: "comic sans ms"!important;
+    font-style: normal!important;
+    font-weight: normal!important;
+}
+
+.fs-ourtem-style{
+    font-family: "telex";
+    font-size: 13px;
+    line-height: 24px;
+    padding: 0;
+    text-align: justify;
+}
+.fs-our-temstyle-oderlisttitle{
+    font-family: "telex"!important;
+    font-size:20px !important;
+}
+.fs-style-temlist{
+    font-family: "telex";
+    font-size: 13px;
+    line-height: 24px;
+    padding: 0;
+    text-align: justify;
+}
+.email-submit-btn {
+  border: 1px solid #000!important;
+  border-radius:3px!important;
+  font-size: 18px !important;
+  padding: 8px 0 !important;
+  text-align: center !important;
+  width: 100px !important;
+}
+
+.wpb_wrapper a:hover{color:red !important;}

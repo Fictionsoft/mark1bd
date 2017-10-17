@@ -1,0 +1,85 @@
+.home-box{
+    height: 530px !important;
+}
+
+.hotline a {
+    color: #7AB103;
+    font-weight: bold;
+}
+.fs-copy-font{
+    font-family: "comic sans ms"!important;
+    font-style: normal!important;
+    font-weight: normal!important;
+}
+
+.fs-ourtem-style{
+    font-family: "telex";
+    font-size: 13px;
+    line-height: 24px;
+    padding: 0;
+    text-align: justify;
+}
+.fs-our-temstyle-oderlisttitle{
+    font-family: "telex"!important;
+    font-size:20px !important;
+}
+.fs-style-temlist{
+    font-family: "telex";
+    font-size: 13px;
+    line-height: 24px;
+    padding: 0;
+    text-align: justify;
+}
+.wpb_wrapper a:hover{
+    color:#ed130e !important;
+}
+/** footer style**/
+#text-4 {
+	margin-left: 110px !important;
+}
+#text-7 {
+	margin-left: 125px !important;
+}
+
+@media screen and (max-width: 1199px){
+     .hotline {
+        width: 100%;
+        margin-left: 0 !important;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 991px){
+    
+}
+
+@media screen and (max-width: 767px){
+    #text-4 {
+    	margin-left: 0px !important;
+    }
+     #text-7 {
+    	margin-left: 0px !important;
+    }
+             
+  }        
+            
+
+
+@media screen and (max-width: 555px){
+    
+}
+@media screen and (max-width: 450px){
+    
+}
+@media screen and (max-width: 400px){
+    
+}
+
+@media screen and (max-width: 320px){
+    
+}
+
+
+
+
+

@@ -1,0 +1,1 @@
+[17-Oct-2017 08:08:47 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/mark1bd/public_html/wp-content/themes/twentythirteen/404.php on line 10
