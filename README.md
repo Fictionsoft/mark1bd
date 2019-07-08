@@ -1,2 +1,2 @@
-# mark1bd
-Mark1bd Website WP
+# Mark1bd
+Mark1bd is a company website by Wordpress
